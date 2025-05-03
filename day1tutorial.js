@@ -44,6 +44,14 @@
 // console.log(power)
 
 // convert min into hours
-let min =120
-let hour =(min /60)
-console.log(hour)
+// let min =120
+// let hour =(min /60)
+// console.log(hour)
+
+
+// discounting on a markets store
+let originalprice = 500
+let discountpercent = 20
+let discountprice =(originalprice*(discountpercent/100))
+
+console.log(discountprice)
